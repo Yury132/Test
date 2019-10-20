@@ -7,6 +7,7 @@ namespace Test_2
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Wwwworld!");
+            Console.WriteLine("Hello Wwwworld!");
         }
     }
 }
